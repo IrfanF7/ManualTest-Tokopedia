@@ -44,4 +44,3 @@ Seluruh detail skenario pengujian, langkah-langkah (*test steps*), hasil aktual,
 - **Negative Testing:** Menguji bagaimana sistem menangani input yang salah/tidak valid.
 
 ---
-**Contact:** [Isi dengan Link LinkedIn kamu]
